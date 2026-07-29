@@ -1,2 +1,3 @@
-# AI-Workflow-Automation
-production-ready VMAI Labs AI Workflow Automation
+# VMAI Labs AI Workflow Automation
+
+Starter boilerplate for AI workflow automation projects.
